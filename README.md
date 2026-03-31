@@ -1,9 +1,9 @@
 # Digital-Literaracy_01
 
 ## Student Details
-Name: Arjun Pradyumna Singh
-Branch: BTech CSE CORE
-Year: 2025
+* Name: Arjun Pradyumna Singh
+* Branch: BTech CSE CORE
+* Year: 2025
 
 ## Project Overview
 This project is made as part of my role as a Student my course Digital literacy. The main aim is to understand how to use digital tools properly and stay safe online.
