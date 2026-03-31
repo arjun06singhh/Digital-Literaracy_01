@@ -1,8 +1,8 @@
 # Digital-Literaracy_01
 
 ## Student Details
-Name: Keshav Soni
-Branch: BTech AI & ML
+Name: Arjun Pradyumna Singh
+Branch: BTech CSE CORE
 Year: 2025
 
 ## Project Overview
@@ -21,29 +21,31 @@ In this task, I created my profiles on platforms like GitHub, LinkedIn and Kaggl
 ### task-3-platforms
 This folder includes my coding practice work and Google Form.
 
-I solved a beginner problem on HackerRank
-I created a Digital Literacy quiz using Google Forms
+* I solved a beginner problem on HackerRank
+
+* I created a Digital Literacy quiz using Google Forms
+
 Screenshots of both are included
 
 ### task-4-email-etiquette
 This contains:
 
-Two professional email drafts
-A social media do’s and don’ts checklist
+* Two professional email drafts
+* A social media do’s and don’ts checklist
+
 This task helped me understand how to communicate properly online.
 
 ### task-5-cybercrime
 This includes:
 
-A case study on Cybercrime
-A prevention checklist
+* A case study on Cybercrime
+
+* A prevention checklist
+
 This task helped me understand how cybercrime happens and how to stay safe.
 
 ## Useful Links
-Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfKIdBFaz_6F1Dd29Yon_jZhPG5cDUvEPrFKLR7MCoOAq4WNA/viewform?usp=publish-editor
-LinkedIn Profile: https://www.linkedin.com/in/arjun-singh-b23a163bb/
-GitHub Profile: https://github.com/arjun06singhh
+* Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfKIdBFaz_6F1Dd29Yon_jZhPG5cDUvEPrFKLR7MCoOAq4WNA/viewform?usp=publish-editor
+* LinkedIn Profile: https://www.linkedin.com/in/arjun-singh-b23a163bb/
+* GitHub Profile: https://github.com/arjun06singhh
 
-
-Conclusion
-Overall, this Digital Literacy project helped me to explore different platforms . It also made me more confident in using digital tools and being responsible online.
